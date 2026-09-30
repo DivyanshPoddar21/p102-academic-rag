@@ -1,0 +1,8 @@
+﻿venv/
+__pycache__/
+*.pyc
+.env
+data/study_pdfs/
+data/index/
+faiss_index/
+.DS_Store
